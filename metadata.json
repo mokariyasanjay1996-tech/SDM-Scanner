@@ -1,0 +1,6 @@
+{
+  "name": "SDM Barcode Scanner",
+  "description": "Continuous barcode scanner with CameraX, ML Kit, duplicate cooldown, audio feedback, and Excel export & sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
